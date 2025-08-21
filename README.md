@@ -35,6 +35,9 @@ Offrire un’alternativa leggera e personalizzabile ai tokenizer generici.
 
 Consentire l’uso in scenari accademici, di ricerca e industriali.
 
+## Stato
+
+Il tokenizer è attualmente in fase di test, versione Beta.
 
 ## Licenza
 
