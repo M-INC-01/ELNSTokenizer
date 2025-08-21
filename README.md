@@ -4,7 +4,7 @@ Questo repository contiene **ELNSTokenizer**, un tokenizer sviluppato per l’el
 
 ## Contenuti del repository
 
-- 📂 **ELNSTokenizer/**  
+- 📂 **ELNSTokenizer.zip**  
   Cartella contenente i file necessari al funzionamento del tokenizer (vocabolario, merges, configurazioni, ecc.).
 
 - 📄 **ELNSTokenizer_WhitePaper.pdf**  
