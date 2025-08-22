@@ -1,6 +1,6 @@
 # ELNSTokenizer
 
-Questo repository contiene **ELNSTokenizer**, un tokenizer sviluppato per l’elaborazione del linguaggio naturale in italiano e multilingua, progettato per essere leggero, efficiente e facilmente integrabile in modelli linguistici personalizzati.
+Questo repository contiene **ELNSTokenizer**, un tokenizer sviluppato per l’elaborazione del linguaggio naturale in multilingua, progettato per essere leggero, efficiente e facilmente integrabile in modelli linguistici personalizzati.
 
 ## Contenuti del repository
 
